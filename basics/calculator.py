@@ -12,7 +12,7 @@ print(" 4. Division")
 choice = int(input("Enetr choice (1-4):"))
 
 if choice == 1:
-  result = a+b
+  result = a + b
 elif choice == 2:
   result = a - b
 elif choice == 3:
