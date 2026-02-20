@@ -3,7 +3,7 @@
 # converting string to integer
 num_str ="20"
 num_int = int(num_str)
-print("String to int:"num_int,)
+print("String to int:",num_int)
 
 # converting integer to float
 num = 10
